@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#root{
+    margin: 50px;
+}
+
+h1{
+    margin-top: 25px;
+}
+
+#root li{
+    list-style: none;
+    
+}
