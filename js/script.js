@@ -13,5 +13,6 @@ var app = new Vue({
                         this.mailUsers.push(mail);                        
                 });
         }
+        
     }
 });

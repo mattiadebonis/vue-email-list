@@ -20,7 +20,7 @@
 <body>
     <div id="root">
         <h1>Mail</h1>
-        <ul>
+        <ul v-if="mailUsers.length == 10">
             <li v-for="mail in mailUsers">{{mail}}</li>
         </ul>
     </div>
